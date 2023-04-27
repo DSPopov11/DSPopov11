@@ -6,7 +6,7 @@
 
 -Проект 1.  [Спецификация требований](https://github.com/DSPopov11/Project-1)
 
--Проект 2.  []()
+-Проект 2.  [Моделирование данных и работа с базой данных ](https://github.com/DSPopov11/Project-2/blob/main/README.md)
 
 -Проект 3.  []()
 
