@@ -12,4 +12,4 @@
 
 -Проект 4.  [Разработка API](https://github.com/DSPopov11/Project-4)
 
--Диплом.  []()
+- [Дипломный проект](https://github.com/DSPopov11/Diplom)
