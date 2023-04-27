@@ -8,7 +8,7 @@
 
 -Проект 2.  [Моделирование данных и работа с базой данных ](https://github.com/DSPopov11/Project-2/blob/main/README.md)
 
--Проект 3.  []()
+-Проект 3.  [Бэклог приложения для сети клиник](https://github.com/DSPopov11/Project-3/blob/main/README.md)
 
 -Проект 4.  []()
 
