@@ -12,4 +12,6 @@
 
 -Проект 4.  [Разработка API](https://github.com/DSPopov11/Project-4)
 
+-Проект 5.  [Тестирование и руководство пользователя](https://github.com/DSPopov11/Project-5)
+
 - [Дипломный проект](https://github.com/DSPopov11/Diplom)
